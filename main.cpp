@@ -1,4 +1,3 @@
-//Name:林智郁, Studend ID:403410049, Dept:資工系, Year:二年級.#include <iostream>
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
